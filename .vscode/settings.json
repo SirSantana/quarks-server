@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a0789354-d567-4fee-8c8e-5a687d0bd7cb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/graphql-prueba",
+    "appService.deploySubpath": "."
+}
